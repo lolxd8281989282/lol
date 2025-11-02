@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>lol</title>
+  <!-- Added Font Awesome CDN for Telegram icon -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <!-- Added inline styles instead of external CSS -->
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #000000; /* background stays black */
+      color: #ffffff; /* everything text white */
+      font-family: "Courier New", monospace;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 800px;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .content {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      align-items: center;
+    }
+
+    /* message smaller and white */
+    .message {
+      font-size: clamp(1rem, 2vw, 1.5rem);
+      font-weight: 400;
+      letter-spacing: 0.05em;
+      color: #ffffff;
+      font-family: "Courier New", monospace;
+      text-align: center;
+    }
+
+    /* Telegram logo small and white */
+    .telegram-link {
+      margin-top: 1.5rem;
+      display: inline-block;
+      transition: opacity 0.3s ease;
+      color: #ffffff;
+      font-size: 40px;
+      text-decoration: none;
+    }
+
+    .telegram-link:hover {
+      opacity: 0.7;
+    }
+
+    /* timestamp white border and white text */
+    .timestamp {
+      margin-top: 3rem;
+      padding: 1rem 2rem;
+      border: 1px solid #ffffff;
+      font-family: "Courier New", monospace;
+      font-size: 1rem;
+      color: #ffffff;
+      letter-spacing: 0.1em;
+    }
+
+    @media (max-width: 640px) {
+      .container {
+        padding: 1rem;
+      }
+
+      .telegram-link {
+        font-size: 30px;
+      }
+
+      .timestamp {
+        padding: 0.75rem 1.5rem;
+        font-size: 0.875rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- audio element (attempting autoplay) -->
+  <audio id="bgAudio" autoplay loop preload="auto">
+    <source src="song.mp3" type="audio/mpeg">
+  </audio>
+
+  <main class="container">
+    <div class="content">
+      <p class="message">let's not do that again pauly.</p>
+
+      <div class="timestamp">
+        <span id="datetime"></span>
+      </div>
+
+      <!-- Telegram icon under the timestamp -->
+      <a href="https://t.me/nearby" class="telegram-link" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-telegram"></i>
+      </a>
+    </div>
+  </main>
+
+  <script>
+    const audio = document.getElementById('bgAudio');
+
+    // Attempt to play audio immediately (may be blocked by browser autoplay policies)
+    audio.play().then(() => {
+      console.log("[v2] Autoplay successful");
+    }).catch(e => {
+      console.log("[v2] Autoplay blocked, will play on first user interaction");
+      // play on first user interaction if autoplay is blocked
+      document.body.addEventListener('click', () => {
+        audio.play().catch(() => {});
+      }, { once: true });
+    });
+
+    // Display current date and time
+    function updateDateTime() {
+      const now = new Date();
+      const formatted = now.toLocaleString('en-US', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false
+      });
+      document.getElementById('datetime').textContent = formatted;
+    }
+    updateDateTime();
+    setInterval(updateDateTime, 1000);
+
+    // --- Lightweight deterrent: disable right-click and common devtool shortcuts ---
+    // Note: This only deters casual users. It cannot stop determined users.
+    document.addEventListener('contextmenu', event => event.preventDefault());
+
+    document.addEventListener('keydown', event => {
+      // Block F12
+      if (event.key === 'F12') {
+        event.preventDefault();
+        return;
+      }
+      // Block Ctrl+Shift+I, Ctrl+Shift+J
+      if (event.ctrlKey && event.shiftKey && (event.key === 'I' || event.key === 'J')) {
+        event.preventDefault();
+        return;
+      }
+      // Block Ctrl+U (view source)
+      if (event.ctrlKey && event.key === 'u') {
+        event.preventDefault();
+        return;
+      }
+      // Block Ctrl+Shift+C (inspect element shortcut in some browsers)
+      if (event.ctrlKey && event.shiftKey && event.key === 'C') {
+        event.preventDefault();
+        return;
+      }
+    });
+    // ------------------------------------------------------------------------
+  </script>
+</body>
+</html>

@@ -1,0 +1,194 @@
+-------Table of Contents-------
+
+0x01 Personal Information
+0x02 Emails
+0x03 Socials
+0x04 Network Footprint
+0x05 Breaches
+0x06 Relatives
+0x07 Credits
+
+-------0x01 Personal Information-------
+ ➤ Handle / Alias:        fxmouspauly, Noyaboii
+ ➤ Name:                  Dallas Paul Frazier
+ ➤ Phone Number:          (754) 215-4789
+
+ ➤ Age:                   28
+ ➤ DoB:                   03/12/1997 - March 12, 1997
+ ➤ SSN:                   591-67-9413
+ ➤ DLN:                   F626-175-97-092-0
+ ➤ CS:                    TBD
+
+ ➤ Origin:                Broward County
+ ➤ Country:               United States of America
+ ➤ Address:               2408 NW 6th Ct
+ ➤ City:                  Pompano Beach
+ ➤ State:                 Florida
+ ➤ Zip Code:              33069
+
+ ➤ Website:               https://www.sfgenterprise.com
+
+-------0x02 Emails-------
+ ➤ Burn Email 1:          dallasfrazierlove@gmail.com
+ ➤ Burn Email 2:          sfgeinfo@gmail.com
+
+-------0x03 Socials-------
+ ➤ YouTube:               https://www.youtube.com/@paulydd
+ ➤ Telegram:              (hidden) found via 754-215-4789
+ ➤ Instagram:             https://www.instagram.com/fxmouspauly
+ ➤ Instagram:             https://www.instagram.com/paulyddsfg
+ ➤ Facebook:              https://www.facebook.com/paulydd.sfg
+ ➤ X/Twitter:             https://x.com/Pauly_lovee
+ ➤ Snapchat:              PAULY_LOVEE
+
+-------0x04 Network Footprint-------
+ ➤ Last seen (VM/IP):        50.232.252.181	COMCAST.NET
+ ➤ Observed hops:            192.168.100.23 -> 192.168.113.77
+ ➤ ISP pattern:              COMCAST.NET
+ ➤ Notes:                    rotating VMs, ephemeral C2, wipe-on-exit
+ ➤ Geolocation (claimed):    Pompano Beach (26.237406, -80.155785)
+
+-------0x05 Breaches-------
+ ➤ Breach 1:                Twitter.com
+ Email: dallasfrazierlove@gmail.com
+ Username: Pauly_lovee
+ Name: PaulyDD
+ Database Name: Twitter.com
+
+ ➤ Breach 2:                Modern Business Solutions
+ Email: dallasfrazierlove@gmail.com
+ Name: DALLAS FRAZIER
+ Address: 1936 PLAYERS PL, FORT LAUDERDALE, FL, 33317
+ Database Name: Modern Business Solutions
+
+ ➤ Breach 3:                Teespring
+ Email: dallasfrazierlove@gmail.com
+ Hashed Password: 669a5b0892d779e27a1a9ed3a4619081457fbe35 (SHA-1)
+ Address: United States
+ Database Name: Teespring
+
+ ➤ Breach 4:                Canva.com
+ Email: dallasfrazierlove@gmail.com
+ Username: dallasfrazierlove
+ Name: Dallas Frazier
+ Database Name: Canva.com
+
+ ➤ Breach 5:                ApexSMS
+ Email: dallasfrazierlove@gmail.com
+ Name: Dallas
+ Address: Rogers, OH, 0, Ohio, US
+ Phone: 3308221666
+ Database Name: ApexSMS
+
+ ➤ Breach 6:                Fotolog.com
+ Email: silvanalestelle@hotmail.com
+ Username: pauly_lovee
+ Hashed Password: 87c0b57147af768599c81138496f09e128bafc871b8cdf3ee978f7de48b15a8c (SHA-256)
+ Database Name: Fotolog.com
+
+ ➤ Breach 6:                ApexSMS
+ Email: tristonfrazier123@gmail.com
+ Name: Triston Frazier
+ Address: 3519, Fort Lauderdale, FL, 33427c
+ Phone: 9545296342
+ Database Name: ApexSMS
+
+-------0x06 Relatives-------
+ (Relative 1)
+ ➤ Name:                  ELLA M CANNON
+ ➤ DoB:                   01/00/1940
+ ➤ SSN:                   265-64-2299
+
+ (Relative 2)
+ ➤ Name:                  VERONICA LAJUNE GRANT / VERONICA LAJUNE CANNON / VERONICA A GRANT
+ ➤ DoB:                   02/16/1971
+ ➤ SSN:                   589-14-7960
+ ➤ DLN:                   G653-872-71-556-0
+ ➤ Phone Number:          (954) 822-4526
+ ➤ Email Address:         vgrant0004@gmail.com
+
+ (Relative 3)
+ ➤ Name:                  SHAVONNA M SMITH / SHAVONNA SMITH / SHAVONNA D SMITH / SHAVONNA MARSHAY SMITH
+ ➤ DoB:                   11/03/1998
+ ➤ SSN:                   595-79-0578
+ ➤ DLN:                   S530-793-98-903-0
+ ➤ Phone Number:          (561) 774-9300
+ ➤ Email Address:         sopina.smith@yahoo.com
+
+ (Relative 4)
+ ➤ Name:                  KRYSTALIN MCINTOSH / KRYSTALIN SACHET CANNON / KRYSTALIN S FRAZIER / KRYSTALIN SACHET FRAZIER-MCINTOSH
+ ➤ DoB:                   02/09/1993
+ ➤ SSN:                   589-31-9115
+ ➤ DLN:                   C550-517-93-549-0
+ ➤ Phone Number:          (954) 708-9263
+ ➤ Email Address:         kf_lovely2012@yahoo.com
+
+ (Relative 5)
+ ➤ Name:                  KEARSTIN PRECIOUS FRAZIER
+ ➤ DoB:                   06/07/2002
+ ➤ SSN:                   768-12-9245
+ ➤ DLN:                   F626-515-02-707-0
+ ➤ Phone Number:          (954) 729-3250
+ ➤ Email Address:         missykfrazier@gmail.com
+
+ (Relative 6)
+ ➤ Name:                  TORRI T CANNON / TORRI TERREL CANNON
+ ➤ DoB:                   01/31/1993
+ ➤ SSN:                   594-29-4294
+ ➤ DLN:                   C550-818-93-031-0
+ ➤ Phone Number:          (954) 839-7781
+ ➤ Email Address:         torricannon@yahoo.com
+
+ (Relative 7)
+ ➤ Name:                  ACIE CANTEEN / ACIE ALPHONSOE CANTEEN
+ ➤ DoB:                   01/05/1989
+ ➤ SSN:                   592-78-6523
+ ➤ DLN:                   C535-001-89-505-0
+ ➤ Phone Number:          (954) 642-6386
+
+ (Relative 8)
+ ➤ Name:                  MONIQUE SHAWNTAE CANTEEN / MONIQUE SMITH
+ ➤ DoB:                   04/27/1987
+ ➤ SSN:                   592-78-6525
+ ➤ DLN:                   C535-557-87-647-0
+ ➤ Phone Number:          (954) 497-1879, (843) 407-6310, (954) 369-6002
+ ➤ Email Address:         paigielove99@icloud.com
+
+ (Relative 9)
+ ➤ Name:                  MARQUITA MONIQUE CASTLE / MARQUITA MUSICK
+ ➤ DoB:                   05/11/1983
+ ➤ SSN:                   590-20-3333
+ ➤ DLN:                   C234-553-83-671-0
+ ➤ Phone Number:          (754) 422-0724, (754) 600-7275, (754) 367-0548
+ ➤ Email Address:         marquita2408@gmail.com
+
+ (Relative 10)
+ ➤ Name:                  SHINITA SMITH
+ ➤ DoB:                   05/06/1968
+ ➤ SSN:                   590-14-0162
+ ➤ DLN:                   S530-780-68-666-0
+ ➤ Phone Number:          (561) 574-4866
+ ➤ Email Address:         shinitac@gmail.com
+
+ (Relative 11)
+ ➤ Name:                  MATTHEW J BUCZEK
+ ➤ DoB:                   09/12/1975
+ ➤ SSN:                   448-11-4242
+
+ (Relative 12)
+ ➤ Name:                  JOSEPH ROOSEVELT PAYTON
+ ➤ DoB:                   10/29/1974
+ ➤ SSN:                   267-79-0444
+ ➤ DLN:                   P350-496-74-389-0
+
+ (Relative 14)
+ ➤ Name:                  HOWARD JENKINS
+ ➤ DoB:                   01/21/1976
+ ➤ SSN:                   263-71-0950
+ ➤ DLN:                   J525-320-76-021-0
+
+
+-------0x07 Credits-------
+ OP: boogeyman (https://t.me/nearby)
+ Tags: c2_stager.log
+ Continued: https://www.sfgenterprise.com/fr_1325253.pdf
